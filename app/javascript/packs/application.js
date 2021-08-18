@@ -14,6 +14,3 @@ require("channels")
 //
 // const images = require.context('../images', true)
 // const imagePath = (name) => images(name, true)
-
-// https://github.com/lewagon/rails-stylesheets/blob/master/README.md
-import 'bootstrap';
