@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Welcome to my Github Repo! 
 
-Things you may want to cover:
+While most of the software that I have written is propietary; I will attempt to recreate "in essense" the types of applications that I have written in my enterprise experience, as well as hopefully gather a site to demonstrate the functionality of each of these projects! 
 
-* Ruby version
+Most of the live demos are available on [tkl337](https://www.tkl337.net)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thanks for taking a look around and feel free to check out my [resume](https://www.tkl337.net) to contact me.
