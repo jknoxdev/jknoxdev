@@ -7,7 +7,7 @@ growing future of technology and the integration and applications it
 has with our species. 
 
 ** cv:
- [[./resumes/pdfs/justin_knox-datacenter_engineer.pdf][./img/logos/pdf.png]]
+ [[./resumes/pdfs/justin_knox-developer.pdf][./img/logos/pdf.png]]
 ** projects:
 *** here's a collection of stuff I'm working on:
 **** n^{3}s
