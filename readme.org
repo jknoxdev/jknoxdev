@@ -1,3 +1,23 @@
-# jknoxdev
+* jknoxdev
+** bio:
+I'm from LA, currently in Ann Arbor, MI, I work currently in the 
+healthcare space, but am fascinated with network security, AI, and the
+growing future of technology and the integration and applications it
+has with our species. 
 
-linkedin: [resume](https://www.linkedin.com/in/justintknox) to contact me.
+** projects:
+*** here's a collection of stuff I'm working on:
+**** video_lan_checker: 
+     - series of scripts and software collected to aid the camera
+       installer and network administrator
+       - finder
+       - ntp viewer
+**** n^{3}s
+ - an example company architecture, for database and python scripts
+   to interact with it
+
+** cv:
+ [[./resumes/pdfs/justin_knox-datacenter_engineer.pdf]]
+** contact:
+ [[
+ [[https://www.linkedin.com/in/justintknox][linkedin]]
