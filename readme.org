@@ -1,11 +1,10 @@
 #+OPTIONS: ^:{}
 * jknoxdev
 ** bio:
-I'm from LA, currently in Ann Arbor, MI, I work in the 
-healthcare space. I am fascinated with network security, AI, and the
-growing future of technology and the integration and applications it
+I'm from LA, currently live in Ann Arbor, MI. I work in the 
+healthcare space. I am fascinated with network security, AI, the
+growing future of technology, the integration and applications it
 has with our species. 
-
 ** contact:
    
 | [[mailto:justin.knox@posteo.de][./img/logos/email.png]]  | [[ https://discord.gg/gVjgHvMy][./img/logos/discord.png]] | [[https://linkedin.com/in/justintknox][./img/logos/linkedin.png]] | [[https://matrix.to/#/@techbiotic:matrix.org][./img/logos/matrix.png]] | [[https://is.gd/BbZblt][./img/logos/slack.png]] | [[https://stackoverflow.com/users/22162178/justin-k?tab=profile][./img/logos/stackoverflow.png]] |
@@ -28,7 +27,11 @@ has with our species.
 - series of scripts and software collected to aid the camera
   installer and network administrator
   - [[https://github.com/jknoxdev/video-lan-checker/blob/main/scanner.py][device finder]]: scans the layer 2 devices, checks for video traffic
+[[https://github.com/jknoxdev/video-lan-checker/raw/main/img/scanner.png]]
   - [[https://github.com/jknoxdev/video-lan-checker/tree/main/incubator#ntp_viewer][ntp viewer]]: scans layer 3 traffic, prints NTP on lan
-  - [[https://github.com/jknoxdev/video-lan-checker/blob/main/src/arp_scan.py][arp_scan]]: scans layer 2, detects when new device plugged in
+[[https://github.com/jknoxdev/video-lan-checker/raw/main/img/ntp_view-skeleton.png]]
+
 ** cv:
  [[./resumes/pdfs/justin_knox-developer.pdf][./img/logos/pdf.png]]
+
+
