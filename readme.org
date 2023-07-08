@@ -1,7 +1,8 @@
+#+OPTIONS: ^:{}
 * jknoxdev
 ** bio:
-I'm from LA, currently in Ann Arbor, MI, I work currently in the 
-healthcare space, but am fascinated with network security, AI, and the
+I'm from LA, currently in Ann Arbor, MI, I work in the 
+healthcare space. I am fascinated with network security, AI, and the
 growing future of technology and the integration and applications it
 has with our species. 
 
@@ -19,5 +20,6 @@ has with our species.
 ** cv:
  [[./resumes/pdfs/justin_knox-datacenter_engineer.pdf]]
 ** contact:
- [[
- [[https://www.linkedin.com/in/justintknox][linkedin]]
+
+| [[https://www.linkedin.com/in/justintknox][linkedin]] | [[./img/logos/linkedin.png]] |
+|          |   |
