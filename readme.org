@@ -21,7 +21,7 @@ has with our species.
  [[./resumes/pdfs/justin_knox-datacenter_engineer.pdf]]
 ** contact:
    
-| [[[mailto:justin.knox@posteo.de][./img/logos/email.png]] | [[ https://discord.gg/gVjgHvMy][./img/logos/discord.png]] | [[https://linkedin.com/in/justintknox][./img/logos/linkedin.png]] | [[https://matrix.to/#/@techbiotic:matrix.org][./img/logos/matrix.png]] | [[https://is.gd/BbZblt][./img/logos/slack.png]] | [[https://stackoverflow.com/users/22162178/justin-k?tab=profile][./img/logos/stackoverflow.png]] |
+| [[mailto:justin.knox@posteo.de][./img/logos/email.png]]  | [[ https://discord.gg/gVjgHvMy][./img/logos/discord.png]] | [[https://linkedin.com/in/justintknox][./img/logos/linkedin.png]] | [[https://matrix.to/#/@techbiotic:matrix.org][./img/logos/matrix.png]] | [[https://is.gd/BbZblt][./img/logos/slack.png]] | [[https://stackoverflow.com/users/22162178/justin-k?tab=profile][./img/logos/stackoverflow.png]] |
 
 
 
