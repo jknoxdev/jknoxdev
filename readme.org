@@ -21,6 +21,10 @@ has with our species.
  [[./resumes/pdfs/justin_knox-datacenter_engineer.pdf]]
 ** contact:
 
-| [[https://www.linkedin.com/in/justintknox][linkedin]] | [[./img/logos/linkedin.png]] |
-| :email:  | [[mailto:justin.knox@posteo.de][justin.knox@posteo.de]]    |
-|          |                          |
+| :email:                       | [[mailto:justin.knox@posteo.de][justin.knox@posteo.de]]    |
+| [[./img/logos/discord.png]]       |                          |
+| [[./img/logos/facebook.png]]      |                          |
+| [[./img/logos/linkedin.png]]      |                          |
+| [[./img/logos/matrix.png]]        |                          |
+| [[./img/logos/slack.png]]         |                          |
+| [[./img/logos/stackoverflow.png]] | [[https://www.linkedin.com/in/justintknox][linkedin]]                 |
