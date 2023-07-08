@@ -22,12 +22,12 @@ has with our species.
 ** contact:
 
    
-| [[./img/logos/email.png]]         | [[mailto:justin.knox@posteo.de]]                                  |
-| [[./img/logos/discord.png]]       | [[https://discord.gg/gVjgHvMy]]                                   |
-| [[./img/logos/linkedin.png]]      | [[https://linkedin.com/in/justintknox]]                           |
-| [[./img/logos/matrix.png]]        | [[https://matrix.to/#/@techbiotic:matrix.org]]                    |
-| [[./img/logos/slack.png]]         | https://is.gd/BbZblt                                          |
-| [[./img/logos/stackoverflow.png]] | https://stackoverflow.com/users/22162178/justin-k?tab=profile |
+| [[./img/logos/email.png][mailto:justin.knox@posteo.de]]                                  |   |
+| [[./img/logos/discord.png][https://discord.gg/gVjgHvMy]]                                   |   |
+| [[/img/logos/linkedin.png][https://linkedin.com/in/justintknox]]                           |   |
+| [[./img/logos/matrix.png][https://matrix.to/#/@techbiotic:matrix.org]]                    |   |
+| [[./img/logos/slack.png][https://is.gd/BbZblt]]                                          |   |
+| [[./img/logos/stackoverflow.png][https://stackoverflow.com/users/22162178/justin-k?tab=profile]] |   |
 
 
 
