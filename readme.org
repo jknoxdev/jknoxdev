@@ -22,4 +22,5 @@ has with our species.
 ** contact:
 
 | [[https://www.linkedin.com/in/justintknox][linkedin]] | [[./img/logos/linkedin.png]] |
-|          |   |
+| :email:  | [[mailto:justin.knox@posteo.de][justin.knox@posteo.de]]    |
+|          |                          |
