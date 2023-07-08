@@ -22,7 +22,7 @@ has with our species.
 ** contact:
 
    
-| [[./img/logos/email.png][mailto:justin.knox@posteo.de]]                                  |   |
+| [[[mailto:justin.knox@posteo.de][./img/logos/email.png]]                               |   |
 | [[./img/logos/discord.png][https://discord.gg/gVjgHvMy]]                                   |   |
 | [[/img/logos/linkedin.png][https://linkedin.com/in/justintknox]]                           |   |
 | [[./img/logos/matrix.png][https://matrix.to/#/@techbiotic:matrix.org]]                    |   |
