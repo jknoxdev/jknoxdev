@@ -26,6 +26,8 @@ has with our species.
 - link: [[https://github.com/jknoxdev/video-lan-checker]]
 - series of scripts and software collected to aid the camera
   installer and network administrator
+  -[[https://github.com/jknoxdev/video-lan-checker/tree/main/incubator#7seg][7seg]]: displays a 7seg window on a device for camera monitoring
+[[https://github.com/jknoxdev/video-lan-checker/blob/main/incubator/img/7seg_v003.png?raw=true]]
   - [[https://github.com/jknoxdev/video-lan-checker/blob/main/scanner.py][device finder]]: scans the layer 2 devices, checks for video traffic
 [[https://github.com/jknoxdev/video-lan-checker/raw/main/img/scanner.png]]
   - [[https://github.com/jknoxdev/video-lan-checker/tree/main/incubator#ntp_viewer][ntp viewer]]: scans layer 3 traffic, prints NTP on lan
