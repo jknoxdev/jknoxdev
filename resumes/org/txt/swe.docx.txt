@@ -1,0 +1,102 @@
+JUSTIN KNOX, B.Sc., (ISC)2 CC
+3032 Rodman St. NW, Washington DC, 20008 :: (202) 717-7619
+		justin.knox@posteo.de
+
+OBJECTIVE:
+Software Engineer, Software Developer
+EXPERIENCE:
+University of Tennessee, Knoxville | Graduate Student | Master's of Science, Computer Science | Dec 2022 - Present
+  
+:: Current specialization is in Data Science & Intelligent Systems; however, in the summer of 2023 I am planning to Dual-Major with Software Engineering.  
+
+ 
+Alchemy Computing | Technical Consultant and DBA | Regions span across Washington DC, NY, NoVA, and the Mid-Atlantic| Dec 2021  -  Present
+      
+:: Freelance web development and design, prototyping and SMB infrastructure design, development, and deployment. 
+:: Clients are primarily in the legal, entertainment and cosmetic industries.
+
+
+Google | Operations Engineer II, DT3 | GDC, 3PDC, EFS, SO | Global Datacenter, 3[rd] Party Datacenter, Engineering Field Services, Server Operations | Reston, Virginia | Dec 2018  -  Dec 2021
+
+:: Through BASH, Python, and JavaScript, created department internal scripts that would SSH in to the machines, check memory, disk, cpu, temperatures, voltages and generate a health profile for the machine. The system would then create a ticket and dispatch it to the repair pool.
+:: Developed internal dashboards using BASH, Python, Ruby, JavaScript, SQL HTML and CSS to automate new releases, fixes, patch deployment and maintenance.
+:: Created internal scripts in BASH and JavaScript to visualize data gathered from the above scripts, across the fleet, allowing for bug-level, monitoring, tracking and reporting for technical issues. While regionally scoped during implementation, the scripts have architectural and operationally verified capabilities to execute fleet wide. 
+:: Deployed, maintained and configured the datacenters, servers, & production infrastructure to the Google fleet. Particular highlights included; an 800% reduction in the GCVE regionally identified production issues, spread over corporate, production, and "New Product Integration" fleet operations. 
+::  Leveraged Google Incident Management solution for tracking progress on high severity incidents impacting multiple customer sites.
+:: Provisioned, maintained and managed biometric, RFID, and physical building access systems and user credentials to gain access.
+:: Received 19 Peer Bonuses, and 2 Awards for Hurricane & Pandemic Support
+
+     
+Switch | Datacenter Technician | NETOPS | Network Operations
+Las Vegas, Nevada | July 2017 - Dec 2018
+
+:: Developed an internal mail handling script utilizing AutoHotKey and JavaScript that would parse incoming helpdesk email and collect it into assorted groups to aid in processing incoming ticket requests. The system would locate the most commonly requested items, and given a confidence value of over 0.85, it would generate the tickets for the technician automatically. 
+:: Provided network incident detection in the internal Network Operations Center (NOC) and issue escalation, for outages on customer nodes as well as production upstream links.
+:: Deployed customer network configurations from schematic to configuration, utilizing a wide variety of industry vendors including Cisco, Juniper, Cienna, Palo-Alto, Dell, HP, Checkmate, Alcatel-Lucent as well as other proprietary equipment.
+:: Coordinated with Engineering teams from over 2,300 customer deployments to provide regional technical support issues on customer provided infrastructure ranging on deployments that ranged from 1RU, to multi-campus / LAN and multi-sector-wide / WAN deployments.  
+
+ ~~ Time off to assist family, April 2015  -  Oct 2016 ~~
+
+
+Scientific Games | Technical Specialist II| | | TTD | Technical Training & Documentation | Las Vegas, Nevada | Nov 2013 - April 2015
+     
+:: Developed internal training database utilizing SQL on a MySQL deployment; and supported migration to production SharePoint servers.
+:: Hardened the production instances of the Arch Linux kernels; and implemented the IP tables firewalls for each of the units in accordance with security best practices.
+:: Designed and built the mem-cached Arch Linux prototype server infrastructure to distribute the in-house training videos out via the company WAN.
+:: Interfaced with Hardware & Software Engineering teams to develop internal training to distribute to ~680 technicians globally on a monthly release cycle.
+:: Designed, developed and deployed the companies first Casino simulation laboratory. This mirrored the in-field deployment for the entire product line of gaming machines and networks. 
+:: Wrote, filmed, edited and distributed training content using video production methodology to integrate into videos for distribution using Adobe Premiere, After Effects in the five phase production lifecycle.
+
+ 
+Alchemy Computing | Freelance Technical Consultant and DBA | Regions spanned across Los Angeles, California, Las Vegas, Nevada & the Arizona NW | Sept 2009  -  Nov 2013
+  
+:: Freelance web development and design, data recovery, SMB cloud conversion, forensic analysis, wireless network design and server disaster recovery. 
+:: Notable clients were primarily in the legal, entertainment, cosmetic and automotive industries; Associated Nevada State Bar Attorneys, Henry Strange, Kerastase, Sephora, Drybar, Sassoon Salon, Aaron Cohen (The Truth Collective), Artdoc Inc., Phillip Morris
+
+ 
+British Telecom | Network Event Management Technician III  GNOC T3, CSMC | Global Operations Tier 3 Converged Services Management Center | El Segundo, California                                   May 2008 - Sept 2009 
+:: Implemented a computer vision application utilizing the OpenCV API to notify technicians of network alarm status. The system utilized machine vision to collect a series of screenshots in sequence and would detect when an "excess" amount of "red" was on the monitor. This indicated there were a lot of "problems" on the network. From here, the system would generate an audible alarm to alert the operator that a particular platform was having issues and required attention. This created a platform-agnostic alerting system and allowed the technician to concentrate on only the most important issues. 
+:: Created a platform-agnostic automated ticket closure system using the windows based AutoHotKey API, JavaScript, and the OpenCV libraries. The system executed a set of customizable sequences of mouse clicks to automate a routine "ticket closure" procedure which otherwise averaged anywhere from 1-4 hours of a technician's time per night. The system would execute the instructions in about 2-16 minutes, depending on the number of tickets. 
+:: Provided Tier 3 support, including the provisioning, maintenance and performance monitoring of BT-Infonet's internet backbone; in a cross-platform; mixed vendor environment; platforms included Cisco, Alcatel Lucent, Juniper & Cienna based equipment. Protocols included: MPLS, EIGRP, IGRP, Frame-Relay, TCP/IP V4/V6, SIP, ARP, CDP, EIGRP, OSPF, BGP, VTP, Etherchannel, 802.1Q trunking, QoS, Multicast, 802.11a/b/g/n/ac, IPSec, LDAP, RADIUS/TACACS+, SNMP, NTP, VRF and HTTP/HTTPS.
+
+ ~~ Time off to work on Senior Project, "Fingertip Effects", Nov 2007  -  May 2008 ~~
+
+Synetcom Digital | Junior Electronics Engineer | Torrance, California | June 2006 - Nov 2007
+:: Primary UI engineer on GUI development, implementing vendor provided libraries to portray graphics on LCD panels of real-time information regarding system-wide sensor status. Main customers were in the Oil and gas industries, systems included: graphics of pump relays, liquid depth levels in fuel, water and other tanks, dispersion rates through pipelines, planar field "dryness" levels in lakebeds using resistance wire, system internal and external temperatures.
+:: Secondary engineer on BASIC stamp programming for main systems operation, code verification and testing. Areas included sensor testing and verification of ADCs, DACs, 4-20ma loops, and results accuracy over stress testing including temperature, network interference, RF noise testing (in laboratory) and antenna modifications.    
+:: Developed and implemented embedded software utilizing the System on Chip (SoC) encryption modules with AES256 to secure video over radio communications.
+:: Conducted Wireshark traffic and packet analysis to help secure and harden SCADA radio networks in point-to-point, star, bus and wireless mesh topologies.
+:: Conducted wireless penetration testing and 802.1X assessments leveraging Kismet, Spectrum analyzers and custom built software to ensure communication security.
+:: Designed and converted existing customer networks to support fail over resistant mesh network topology utilizing FHSS (frequency hopping spread spectrum) radios.
+
+
+DeVry University | Academic Tutor | OASIS, ADL, NL, CLAB, ELAB Office of Academic Support and Instruction Services, Advanced Development Laboratory, Network Laboratory, Computer Laboratory, Electronics Laboratory | Long Beach, California | Mar 2004 - June 2006
+:: Tutored students as the resident Teachers Assistant (TA) in the network security and advanced micro peripheral courses.
+:: Focused specialties included: 
+ Software Engineering
+ C++, Java, Assembly and Embedded Microprocessors
+ Digital Logic & Electronics
+ Operating Systems Architecture & UNIX Programming
+ Data Structures & Algorithms
+TECHNICAL SKILLS/ SECURITY TOOLS:
+	
+			
+Languages: Ruby, Ruby on Rails, C, C++, Java, JavaScript, TypeScript, ECMAScript, Erlang, Elixir, Haskell, Go, HTML, CSS, Python, Assembly, JSON, SQL, XML 
+Cloud, Client & Server Operating Systems: Windows 11, 10, 7, Vista, XP, 98, 95, 3.1, Windows Server 2016, RHEL 7, macOS, OS X, Macintosh, SUSE Linux, Ubuntu 22-16.04, Debian, 11, 9, 8, 7, 6, Gentoo Linux, v3-1 - modern, Arch, Pentoo, Knoppix, Mandrake, VMWare, ESXi, XCP-ng, Kubernetes, Google Cloud, AWS, OpenBSD 7.0, 6.9, 6.8, FreeBSD, NetBSD
+Applications: Office, SharePoint, Adobe Premiere, Adobe After Effects, Adobe Photoshop, Adobe Illustrator, MATLab, Slicer (3D Printing) 
+Databases: MS SQL Server 2008, Access, MySQL, PostreSQL
+Vulnerability Assessment Tools: Nmap, Net Stumbler, Netcat, Kismet, Wireshark, Kali Linux, Pentoo Linux
+General: Cloud Security, Cybersecurity, Information Technology (IT) Support, Internet Protocol Suite, Local Area Network (LAN), Network Configurations, Network Design, Network Operations, Network Operations Center (NOC), Network Security, Packet Analysis, Red Hat Enterprise Linux (RHEL), System Administration, Technical Support,
+EDUCATION:
+Graduate Student, Master of Science in Computer Science
+University of Tennessee, Knoxville, Dec 2022 - Present
+Web Developer Full Stack Bootcamp
+LeWagon, Rio de Janeiro, Brazil, June 2021  -  Sep 2021
+Bachelor of Science, Computer Engineering Technology
+DeVry University, Long Beach, California, Oct 2003  -  March 2008
+GPA:  3.58, Summa Cum Laude, Academic Honors: Dean's List, June 2003  -  June 2007
+CERTIFICATES:
+Certified in Cybersecurity (ISC)² / CC 
+International Information System Security Certification Consortium (ISC)²
+Active as of: September 2022
+
