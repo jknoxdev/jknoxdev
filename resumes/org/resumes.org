@@ -1,3 +1,258 @@
+* neteng_projects_nolocs
+** 
+#+EXPORT_FILE_NAME: ./pdfs/justin_knox-network_engineer
+#+OPTIONS: toc:nil
+*** Justin Knox, B.Sc., CC
+--------
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+GEOMETRY: margin=1.5cm
+#+LATEX_COMPILER: xelatex
+#+LATEX_CLASS_OPTIONS: [letter,10pt]
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \renewcommand*\oldstylenums[1]{{\fontfamily{Montserrat-TOsF}\selectfont #1}}
+#+LATEX_HEADER_EXTRA: \usepackage{fontspec}
+#+LATEX_HEADER_EXTRA: \setmainfont{FreeMono}
+#+LATEX_HEADER: \usepackage[margin=1.5cm]{geometry}
+#+LaTeX_CLASS: articlen
+#+LATEX_HEADER: \usepackage{graphicx}
+#+ATTR_HTML: width="100px"
+#+ATTR_ORG: :width 100
+#+ATTR_LATEX: :width 100
+#+LATEX_HEADER: \usepackage{xcolor}
+#+LATEX_HEADER: \hypersetup{ colorlinks, urlcolor={blue!80!black!} }
+[[mailto:justin.knox@posteo.de][justin.knox@posteo.de]] | [[https://www.linkedin.com/in/justintknox][linkedin.com/in/justintknox]] | [[https://www.github.com/jknoxdev][@github.com/jknoxdev]] \\
+[[https://gitlab.com/n1ghtcr3w][@gitlab.com/n1ghtcr3w]] | [[https://matrix.to/#/@techbiotic:matrix.org][@techbiotic:matrix.org]]
+
+
+*** Objective:              Network Engineer
+*** Experience:
+#+begin_src latex :results output raw
+ \begin{wrapfigure}{l}{0.25\textwidth}
+ \includegraphics[width=0.45\linewidth]{./img/50p_cr_utk.jpg}
+ \end{wrapfigure}
+ #+end_src
+**** University of Tennessee, Knoxville | Graduate Student
+***** Studying for Masters of Science in Computer Science | Dec 2022 - Present
+ - Specialization is in Data Science & Intelligent Systems; with Dual-Major in Software Engineering.
+#+begin_src latex :results output raw
+\\
+#+end_src
+
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.8\linewidth]{./img/jpeg_banner.jpg}
+\end{wrapfigure}
+#+end_src
+
+**** jPegDesign | Technical Specialist II
+***** IT & Network Systems Design, Deployment & Support | March 2023 – June 2023
+****** Implement and scale Managed IT Services, support and design for all levels of technical operations and infrastructure.
+****** Services include Network Management, Security analysis, production acquisition and integration, CAT6 & Fiber networking, Wireless Access Controllers, back-haul repeaters, Wireless (CDMA, LTE & MIMO) antennas, IP Cameras & NVR systems.
+#+begin_src latex :results output raw
+\\
+\\
+#+end_src
+
+
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.8\linewidth]{./img/50p_alchemy_computing.jpg}
+\end{wrapfigure}
+#+end_src
+
+**** Alchemy Computing | Freelance Technical Consultant
+***** Full-stack Development, Systems Architecture & Design | Dec 2021 – March 2023
+****** Services include, small business infrastructure design, development & deployment, full-stack development, wireless network design and server disaster recovery.
+****** Notable clients are primarily in the legal, entertainment and construction industries.
+#+begin_src latex :results output raw
+\\
+\\
+#+end_src
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.85\linewidth]{./img/cr_google.jpg}
+\end{wrapfigure}
+#+end_src
+**** Google | Operations Engineer II
+***** Global & 3^rd Party Datacenter, Engineering Field Services, Hardware, Network & Server Operations | Dec 2018 – Dec 2021
+   - Coordinated deployment between Network, Hardware, Systems and Software Engineering teams to deploy full life cycle implementations, from schematic to deployment.
+   - Deployed, maintained and configured the Cisco and Juniper (3rd party vendor) network infrastructure to the Google Cloud GCVE east coast deployment. The project was completed 60% faster than was scheduled.
+   - Developed internal BASH, KSH, ZSH Shell scripting automation, dashboards and tools to administer and apply technical solutions to deployment, maintenance and production systems. Languages included Python, Ruby, JavaScript/ECMAScript, SQL,HTML, and CSS on the internal CI/CD “Git like” CVS.
+   - Received 19 Peer Bonuses, and 2 Awards for Hurricane & Pandemic Support.
+#+begin_src latex :results output raw
+\\
+\\
+#+end_src
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.8\linewidth]{./img/50p_cr_switch.jpg}
+\end{wrapfigure}
+#+end_src
+**** Switch LTD | Network Operations & Datacenter Technician
+***** Network Operations | July 2017 - Dec 2018
+  - Deployed customer network configurations, utilizing Palo-Alto, Juniper, Cisco, Cienna, Dell, HP, Checkmate, Alcatel-Lucent as well as other proprietary vendor equipment.
+  - Coordinated with Engineering teams from over 2,300 customer deployments to provide regional technical support issues on customer provided infrastructure ranging on deployments that ranged from 1RU, to multi-campus / LAN and multi-sector-wide / WAN deployments.
+  - Ensured perimeter security and conducted routine production infrastructure security audits in compliance with customer provided ISO specifications.
+#+begin_src latex :results output raw
+\\
+\\
+#+end_src
+
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.8\linewidth]{./img/50p_cr_pinnacle.jpg}
+\end{wrapfigure}
+#+end_src
+**** Pinnacle Community Services | IT Support Technician IV
+***** Information Technology | Oct 2016 - June 2017
+  - Implemented company firewall policies over a blend of IP Tables, Cisco ASA, and Baraccuda network technologies.
+  - Designed and implemented the companies network infrastructure using IPSEC over GRE on Cisco 2800 series ISRs, and 3600 series layer 2 switches.
+  - Provided systems administration, network design, deployment and support for the Nevada region covering 30 remote locations and three office campuses; in a mixed Windows Server 2016, RedHat, OpenSuse, FreeBSD and Ubuntu environment.
+  - Designed, built and implemented remote tunnels for locations over SSH tunneling.
+  - Engineered, provisioned and migrated end-user PC's to security hardened internal Health management kiosks.
+  - Designed, built and migrated the company back-end infrastructure over to HIPAA compliant, open source and license free solutions.
+  - Secured Windows production through Active Directory Group Policy Objects.
+  - Created and migrated the data storage servers to fully encrypted internal storage at rest and in transit.
+  - Created the secondary backup file servers and using best practices; security hardened the BSD platform.
+#+begin_src latex :results output raw
+\\
+\\
+#+end_src
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.8\linewidth]{./img/50p_cr_scientific_games.jpg}
+\end{wrapfigure}
+#+end_src
+**** Scientific Games | Technical Specialist II
+***** Technical Training & Documentation | Nov 2013 - April 2015
+  - Designed and built the mem-cached Arch Linux prototype server infrastructure to distribute the in-house training videos out via the company WAN.
+  - Designed, developed and deployed the companies first Casino training laboratory. This mirrored the in-field deployment for the entire product line of gaming machines and networks.
+  - Interfaced with Hardware & Software Engineering teams to develop internal training to distribute to ~680 technicians globally on a monthly release cycle.
+  - Created training scenarios to match and emulate the field failure conditions to assist in the training of new technicians. Conditions matched that of all possible conditions seen in the field.
+#+begin_src latex :results output raw
+\\
+\\
+#+end_src
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.8\linewidth]{./img/50p_alchemy_computing.jpg}
+\end{wrapfigure}
+#+end_src
+**** Alchemy Computing | Freelance Technical Consultant
+***** Web Development, Computer Repair, Electronics Prototyping | Sept 2009 – Nov 2013
+  - Services included, small business desktop and infrastructure support, web development and design, electronics product prototyping development, wireless penetration testing, data recovery, forensic analysis, wireless network design and server disaster recovery.
+  - Notable clients were primarily in the legal, entertainment and cosmetic industries.
+#+begin_src latex :results output raw
+\\
+\\
+#+end_src
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.8\linewidth]{./img/50p_cr_bt.jpg}
+\end{wrapfigure}
+#+end_src
+**** British Telecom | Network Event Management Technician III
+***** Global Operations Tier 3, Converged Services Management Center | May 2008 - Sept 2009
+  - Gathered and analyzed network traffic telemetry data and prepare documentation for engineering team analysis.
+  - Provided Tier 3 support, including the provisioning, maintenance and performance monitoring of BT-Infonet’s internet backbone; in a cross-platform; mixed vendor environment; platforms included Cisco, Alcatel Lucent, Juniper & Cienna based equipment.
+  - Designed, developed and implemented a computer vision application utilizing the OpenCV API to notify technicians of network alarm status.
+  - Protocols included: MPLS, EIGRP, IGRP, Frame-Relay, TCP/IP V4/V6, SIP, ARP, CDP, EIGRP, OSPF, BGP, VTP, Etherchannel, 802.1Q trunking, QoS, Multicast, 802.11a/b/g/n/ac, IPSec, LDAP, RADIUS/TACACS+, SNMP, NTP, VRF and HTTP/HTTPS.
+  - Gathered and developed the internal documentation website for incident management reporting.
+#+begin_src latex :results output raw
+\\
+\\
+#+end_src
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.8\linewidth]{./img/50p_cr_synetcom.jpg}
+\end{wrapfigure}
+#+end_src
+**** Synetcom Digital | Junior Electronics Engineer
+***** June 2006 - Nov 2007
+  - Worked in the engineering team developing industrial SCADA radios for monitoring digital IO, 4-20ma sensor loops, PWM, and industrial video applications.
+  - Designed and converted existing customer networks to support fail over resistant mesh network topology utilizing FHSS (frequency hopping spread spectrum) radios.
+  - Developed and implemented software utilizing the embedded System on Chip encryption modules with AES256 to secure video over radio communications.
+  - Developed and implemented IPSec on the Active Directory LAN intranet and secured it in a mixed windows Linux development environment.
+  - Designed, conducted and implemented quality assurance and field simulation testing for complete product range.
+  - Researched and integrated emerging technologies into new products for field deployment.
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0.25\textwidth}
+\includegraphics[width=0.8\linewidth]{./img/50p_cr_devry.jpg}
+\end{wrapfigure}
+#+end_src
+**** DeVry University | Tutor & Laboratory Technician
+***** Network Laboratory | Mar 2004 - June 2006
+ - Tutored students in the network security and advanced micro peripheral courses.
+ - Focused specialties included:
+   - Network Design, Engineering & Architecture
+   - Cisco CLI commands, interfacing and scripting.
+   - Implementing network configurations with Java
+   - Network Packet analysis
+
+#+begin_src latex :results output raw
+\begin{wrapfigure}{l}{0\textwidth}
+\includegraphics[width=0.0\linewidth]{}
+\end{wrapfigure}
+#+end_src
+*** Technical Skills & Security Tools:
+**** Network Engineering & Assessment Tools:
+NMap, Wireshark, Visio, Dia, Draw.io, MTR, ping, ARP, TCP/IP, HTTP, SSL
+**** Coding & Programming Languages:
+C, C++, Java, SQL, BASH, LaTeX, YACC, YAML, XML, HTML, CSS, JavaScript, Ruby, Python, Assembly
+**** Cloud / Server / HyperVisor Operating Systems:
+Windows 10, Windows 2016, RHEL 7, Linux  (VMWare), ESXi, OpenBSD, FreeBSD, NetBSD, Docker, XCP-NG, EVE-NG, VirtualBox
+**** Applications:
+Office, SharePoint, Adobe Premiere, Adobe After Effects, Adobe Photoshop, Adobe Illustrator, MATLab, Slicer (3D Printing)
+**** Databases:
+PostreSQL, MS SQL Server 2008, MS Access, MySQL
+*** Personal Projects:
+**** "Homelab" - FOSS Home Computing
+https://sites.google.com/view/justinsdevlab/home
+***** Description:
+Fully self hosted search, DNS, firewall, remote access, file storage, cryptocurrency mining and blockchain hosting.
+***** Technologies used:
+SearxNG, dnsmasq, Cisco 1841, Palo-Alto PA-500, OpenVPN, IPSEC, GRE, BGP (dn42), FreeNAS, NFS, Monero, Dash, Litecoin, Ethereum, Bitcoin (miners and full-nodes)
+
+**** "Cyboard" - Longboard Security System and Datalogger
+***** Description:
+Raspberry Pi based "Smart skateboard", with on-device weather detection, keyfob to "lock" the board, motion and location detection for "ride-data".
+***** Technologies used:
+Python, SQLLite, GPS PA1616S, Raspbian, NeoPixel LED, Remote Control Encoder PT2262, SHT30 Sensor, ADXL343 - Triple-Axis Accelerometer
+
+**** "Video LAN Checker" - VOIP Security Camera Management
+https://github.com/jknoxdev/video-lan-checker
+***** Description:
+Scripts to aid the secruity camera installer, currently scans the network to detect any cameras, shows encrypted traffic status. Draws diagram of connections to router.
+***** Technologies used:
+LLaMA 7B, ChatGPT, Python, PostgreSQL, SQLLite, Azure, GCP, AWS, ARP, DNS, DHCP, RTSP, RTP
+
+*** Education:
+**** (in progress) Master of Science in Computer Science
+University of Tennessee, Knoxville, Dec 2022 - Present
+**** Web Development Full Stack Bootcamp
+LeWagon, Rio de Janeiro, Brazil, June 2021 – Sep 2021
+**** Bachelor of Science, Computer Engineering Technology
+DeVry University, Long Beach, California, Oct 2003 – March 2008
+GPA: 3.58, Summa Cum Laude, Academic Honors: Dean’s List, 2003 - 2007
+
+*** Certificates:
+**** (ISC)² Certified in Cybersecurity / CC
+International Information System Security Certification Consortium (ISC)²
+Active as of: September 2022
+
+
+
 * seceng_projects
 ** 
 #+EXPORT_FILE_NAME: ./pdfs/justin_knox-security_engineer.pdf
