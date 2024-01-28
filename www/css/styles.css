@@ -1,0 +1,15 @@
+body {
+    background-color: #232323;
+    font-family: monospace;
+    font-color: #efefef;
+}
+
+h1 {
+    font-color: #deff88;
+    display: inline
+}    
+
+
+table, th, td {
+  border: 1px solid;
+}
