@@ -1,26 +1,35 @@
 body {
     background-color: #232323;
-    font-family: monospace;
-    font-color: #efefef;
+    font-family: "Lucida Console", monospace;
+    font-weight: 100;  
+    font-color: #00ef00;
 }
 
-h1,h2,h3,h4,h5,h6 {
-    display: inline
-}    
+
 h1 {
-    font-color: #abcdef
+    font-color: #abcdef;
+    display: inline
 }
 h2 {
-    font-color: #deedee
+    color: #bb0000;
+    display: inline
 }
 h3 {
-    font-color: #b00b00
+    font-color: #b00b00;
+    display: inline
 }
 h4 {
-    font-color: #caacaa
+    font-color: #caacaa;
+    display: inline
 }
 h5 {
-    font-color: #ceecee
+    font-color: #ceecee;
+    display: inline
+}
+
+h2:hover {
+    color: black;
+    display: inline
 }
 
 table {
@@ -33,9 +42,7 @@ table {
 th {
     padding-top: 10px;
     padding-bottom: 10px;
-    background: red;
-    
-		 
+    background: #010101;
 }
 
 td {
