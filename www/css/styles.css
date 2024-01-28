@@ -4,12 +4,40 @@ body {
     font-color: #efefef;
 }
 
-h1 {
-    font-color: #deff88;
+h1,h2,h3,h4,h5,h6 {
     display: inline
 }    
+h1 {
+    font-color: #abcdef
+}
+h2 {
+    font-color: #deedee
+}
+h3 {
+    font-color: #b00b00
+}
+h4 {
+    font-color: #caacaa
+}
+h5 {
+    font-color: #ceecee
+}
 
+table {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: gray
+}
 
-table, th, td {
-  border: 1px solid;
+th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: red;
+    
+		 
+}
+
+td {
+    padding-top: 10px;
 }
