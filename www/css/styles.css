@@ -1,36 +1,68 @@
+@font-face {
+    font-family: 'EversonMono';
+    src: url('../fonts/Everson_Mono.ttf') format('truetype');
+    font-color: #00ef00;
+}
 body {
     background-color: #232323;
-    font-family: "Lucida Console", monospace;
-    font-weight: 100;  
+    /* font-family: "Everson Mono","Courier Standard","Courier","Lucida Console",monospace; */
+    font-family:'EversonMono';
     font-color: #00ef00;
 }
 
 
 h1 {
-    font-color: #abcdef;
+    color: #abcdef;
     display: inline
 }
 h2 {
-    color: #bb0000;
+    color: #03cc30;
     display: inline
 }
 h3 {
-    font-color: #b00b00;
+    color: #038830;
     display: inline
 }
 h4 {
-    font-color: #caacaa;
+    color: #036630;
     display: inline
 }
 h5 {
-    font-color: #ceecee;
+    color: #ceecee;
     display: inline
 }
 
+h1:hover {
+    color: black;
+    display: inline
+}
 h2:hover {
     color: black;
     display: inline
 }
+h3:hover {
+    color: black;
+    display: inline
+}
+h4:hover {
+    color: black;
+    display: inline
+}
+h5:hover {
+    color: black;
+    display: inline
+}
+h6:hover {
+    color: black;
+    display: inline
+}
+a:link {
+    text-decoration: none
+}
+a:active {
+    color: red
+}
+
 
 table {
     border: none;
@@ -47,4 +79,15 @@ th {
 
 td {
     padding-top: 10px;
+}
+
+
+details summary::-webkit-details-marker {
+  display:none;
+}
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
 }
