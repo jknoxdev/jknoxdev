@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'EversonMono';
     src: url('../fonts/Everson_Mono.ttf') format('truetype');
-    font-color: #00ef00;
+    font-color: #661111;
 }
 body {
     background-color: #232323;
     /* font-family: "Everson Mono","Courier Standard","Courier","Lucida Console",monospace; */
     font-family:'EversonMono';
-    font-color: #00ef00;
+    font-color: #883333;
 }
 
 
