@@ -19,7 +19,11 @@
 		    <details><summary><h4>powershell</h4></summary>
 		      <div class="menu_item">
 			<ul>
-			  <li></li>
+			    <li>copy items with progress bars</li>
+			    <pre><code>
+Import-Module BitsTransfer
+Start-BitsTransfer -Source $Source -Destination $dest -description $desc -displayName "Backup"
+			    </code></pre>
 			</ul>
 		      </div>
 		    </details>
