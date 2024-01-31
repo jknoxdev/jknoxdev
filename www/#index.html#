@@ -15,7 +15,14 @@
 	<div class="menu_item">
 		<details><summary><h3>onliners</h3></summary>
 		  <div class="menu_item">
-		    <details><summary><h4><table><tr><td>powershell</td><td><img src=./img/icons/ps_24.png></img></td></tr></table></h4></summary>
+		      <details><summary><h4>
+			  <table>
+			      <tr>
+				  <td>powershell</td>
+				  <td><img src=./img/icons/ps_24.png></img></td>
+			      </tr>
+			  </table>
+		      </h4></summary>
 		      <div class="menu_item">
 			<ul>
 			    <li>copy items with progress bars</li>
