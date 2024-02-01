@@ -83,12 +83,12 @@ pre {
 
 table {
     border: none;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    border-spacing: 5px;
+    border-collapse: separate;
     background: gray
 }
 
-th {
+tr {
     padding: 5px;
     background: #010101;
 }
@@ -112,11 +112,7 @@ details > summary::-webkit-details-marker {
 .centered img {
     display:block;
     margin:0 auto;
-    height: 75px;
-    width: 75px;
+    height: 48px;
 
 }
 
-.icon {
-    object-fit: fill;
-}
