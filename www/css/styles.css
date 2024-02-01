@@ -83,13 +83,13 @@ pre {
 
 table {
     border: none;
-    border-spacing: 5px;
+    border-spacing: 2px;
     border-collapse: separate;
     background: gray
 }
 
 tr {
-    padding: 5px;
+    padding: 2px;
     background: #010101;
 }
 
