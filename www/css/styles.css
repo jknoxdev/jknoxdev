@@ -108,3 +108,15 @@ details > summary {
 details > summary::-webkit-details-marker {
   display: none;
 }
+
+.centered img {
+    display:block;
+    margin:0 auto;
+    height: 75px;
+    width: 75px;
+
+}
+
+.icon {
+    object-fit: fill;
+}

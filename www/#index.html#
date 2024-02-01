@@ -100,27 +100,28 @@ Start-BitsTransfer -Source $Source -Destination $dest -description $desc -displa
     <details><summary><h2>resume</h2></summary>
 	<div class="menu_item">
 	    <table>
-		<tr>
-		  <td>
-		    <a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'>Justin Knox - Infrastructure Administrator.docx</a>
-		  </td>
-		  <td>
-		    <div class="icon">
-		      <a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'><img src="./img/icons/icons8-microsoft-word.svg"></img></a>
-		    </div>
-		  </td>
-		</tr>
-		
-		<tr>
-		  <td>
-		    <a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'>Justin Knox - Infrastructure Administrator.pdf</a>
-		  </td>
-		  <td class='centered'>
-		    <div class='icon'>
-		      <a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'><img src="./img/icons/pdf.png"></img></a>
-		    </div>
-		  </td>
-		</tr>
+
+	      <tr>
+		<td>
+		  <a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'>Justin Knox - Infrastructure Administrator.docx</a>
+		</td>
+		<td>
+		  <div class="icon">
+		    <a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'><img src="./img/icons/icons8-microsoft-word.svg"></img></a>
+		  </div>
+		</td>
+	      </tr>
+	      
+	      <tr>
+		<td>
+		  <a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'>Justin Knox - Infrastructure Administrator.pdf</a>
+		</td>
+		<td class='centered'>
+		  <div class='icon'>
+		    <a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'><img src="./img/icons/pdf.png"></img></a>
+		  </div>
+		</td>
+	      </tr>
 	    </table>
 	</div>
     </details>
