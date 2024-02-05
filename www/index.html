@@ -81,7 +81,7 @@ Start-BitsTransfer -Source $Source -Destination $dest -description $desc -displa
     <details><summary><h2>security</h2></summary>
       <div class="menu_item">
 	
-	<details><summary><h2>snippits</h2></summary>
+	<details><summary><h3>snippits</h3></summary>
 	  <div class="menu_item">
 	    <ul>
 	      <li>debian based reconfigure tls</li>
@@ -92,21 +92,21 @@ Start-BitsTransfer -Source $Source -Destination $dest -description $desc -displa
 	  </div>
 	</details>
 	
-	<details><summary><h2>auth_form</h2></summary>
+	<details><summary><h3>auth_form</h3></summary>
 	  <div class="menu_item">
 	    <pre><code>
-	    Red Team Engagement Authorization Form
+Red Team Engagement Authorization Form
 
 Client Information:
-Company Name:
-Address:
-Point of Contact:
-Phone Number:
-Email Address:
+	    Company Name:
+	    Address:
+	    Point of Contact:
+	    Phone Number:
+	    Email Address:
 
 Engagement Details:
-Purpose of Engagement:
-Scope of Engagement:
+	    Purpose of Engagement:
+	    Scope of Engagement:
 
     Include IP addresses, domains, and any specific systems or applications to be tested.
     Clearly state any systems, applications, or data that are out of scope.
@@ -116,18 +116,32 @@ Scope of Engagement:
     Briefly describe the Red Team methodologies and tools that may be used during the test.
 
 Authorization:
-I, [Name], in my capacity as [Position], hereby authorize [Your Company/Your Name] and its designated team members to conduct a Red Team testing engagement as described in the Engagement Details section. I understand that this engagement is intended to improve our cybersecurity posture and that all activities will be conducted in accordance with ethical hacking guidelines.
+	    I, [Name], in my capacity as [Position], hereby authorize n3s /
+	    @jknoxdev and its designated team members to conduct a Red Team
+	    testing engagement as described in the Engagement Details section.
+	    I understand that this engagement is intended to improve our
+	    cybersecurity posture and that all activities will be conducted
+	    in accordance with ethical hacking guidelines.
 
 Liability Release:
-I acknowledge that Red Team testing involves attempts to penetrate our network and systems to identify vulnerabilities. I release [Your Company/Your Name] from all liability for any unintentional disruption or damage to our systems or data as a result of activities conducted in good faith during this engagement.
+	    I acknowledge that Red Team testing involves attempts to penetrate
+	    our network and systems to identify vulnerabilities. I release n3s
+	    / @jknoxdev from all liability for any unintentional disruption or
+	    damage to our systems or data as a result of activities conducted
+	    in good faith during this engagement.
 
 Confidentiality Agreement:
-I understand that [Your Company/Your Name] will maintain the confidentiality of all findings and data obtained during the engagement, except as required by law or with the client's express consent.
+	    I understand that n3s @ jknoxdev will maintain the confidentiality
+	    of all findings and data obtained during the engagement, except
+	    as required by law or with the client's express consent.
 
 Reporting:
-I agree to receive a detailed report from [Your Company/Your Name] at the conclusion of the engagement, including findings, evidence of exploits, and recommendations for improvement.
+	    I agree to receive a detailed report from n3s at the conclusion
+	    of the engagement, including findings, evidence of exploits, and
+	    recommendations for improvement.
 
 Authorization Signature:
+
 Client Signature: __________________________
 Print Name: __________________________
 Date: __________________________
@@ -135,12 +149,51 @@ Date: __________________________
 For [Your Company/Your Name]:
 Signature: __________________________
 Print Name: __________________________
-Position: __________________________
-	    Date: __________________________
+Position: _________________________
+Date: __________________________
 	    </code></pre>
 	  </div>
 	</details>
 
+	<details><summary><h3>engagement_details</h3></summary>
+	  <div class="menu_item">
+	      <pre><code>
+Specific tools and methodologies used may vary based on the engagement's scope and objectives.
+Tools:
+
+    Nmap: A network mapping tool for network discovery and security auditing.
+    Metasploit: A penetration testing framework that provides exploit development and execution.
+    Wireshark: A network protocol analyzer for capturing and inspecting network traffic.
+    Burp Suite: A web vulnerability scanner and proxy tool for testing web applications.
+    OWASP ZAP: An open-source web application security scanner.
+    Nessus: A vulnerability scanner that identifies security vulnerabilities and compliance issues.
+    Nikto: A web server scanner that checks for various security issues in web applications.
+    Aircrack-ng: A suite of tools for assessing and cracking Wi-Fi network security.
+    Cain and Abel: A tool for password cracking and network analysis.
+    Hashcat: A password recovery tool that supports various hashing algorithms.
+    Hydra: A fast and flexible password-cracking tool that supports multiple protocols.
+    Gobuster: A directory and file brute-forcing tool.
+    Snort: An intrusion detection and prevention system (IDS/IPS).
+    Kali Linux: A popular Linux distribution for penetration testing and ethical hacking, including a vast collection of pre-installed tools.
+
+Methodologies:
+
+    Information Gathering: Collect information about the target, including open ports, services, and network topology.
+    Scanning and Enumeration: Identify vulnerabilities, weak points, and potential entry points.
+    Vulnerability Assessment: Perform a detailed analysis of identified vulnerabilities to assess their impact.
+    Exploitation: Attempt to exploit vulnerabilities to gain unauthorized access or control over systems.
+    Post-Exploitation: Maintain access, escalate privileges, and gather sensitive information.
+    Lateral Movement: Move horizontally within the network to access different systems and escalate privileges.
+    Persistence: Establish a persistent presence on compromised systems to maintain control.
+    Data Exfiltration: Extract sensitive data from the target environment.
+    Reporting: Document findings, vulnerabilities, and recommendations for remediation in a comprehensive report.
+
+Please note that this is a general list, and the selection of tools and methodologies should be tailored to the specific engagement and its objectives. 
+	      </code></pre>
+	    </ul>
+	  </div>
+	</details
+	
 	
       </div>
     </details>
