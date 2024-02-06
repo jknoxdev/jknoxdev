@@ -1,133 +1,137 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <title>jknoxdev - site</title>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" type="text/css" href="./css/styles.css" />
-</head>
+  <head>
+    <title>jknoxdev - site</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+  </head>
 
-<body>
-  <a href="./index.html"><h1>n3s - jknoxdev</h1></a>
-  
-  <details><summary><h2>code</h2></summary>
-    <div class="menu_item">
-      <details><summary><h3>onliners</h3></summary>
-	
-	<div class="menu_item">
-	  <details><summary><h4>
+  <body>
+    <a href="./index.html"><h1>n3s - jknoxdev</h1></a>
+<!-- code ----------------------------------------------------------->
+    <details><summary><h2>code</h2></summary>
+      <div class="menu_item">
+
+	<details><summary><h3>onliners</h3></summary>
+	  <div class="menu_item">
+	  
+	    <details><summary>
+	      <div class="menu_item">
 	      <table>
-		  <tr>
-		    <td>powershell</td>
-		    <td><img src=./img/icons/ps_24.png></img></td>
-		  </tr>
+		<tr>
+		  <td><h4>powershell</h4></td>
+		  <td><img src='./img/icons/ps_24.png'></img></td>
+		</tr>
 	      </table>
-	  </h4></summary>
-	</div>  
-	
-	<div class="menu_item">
+	    </summary>
+	    
 	    <ul>
-		<li>copy items with progress bars</li>
-		<pre><code>
+	      <li>make sure to load $src, $dst, $desc first</li>
+	      <li>copy items with progress bars</li>
+	      <pre><code>
 Import-Module BitsTransfer
-Start-BitsTransfer -Source $Source -Destination $dest -description $desc -displayName "Backup"
+Start-BitsTransfer `
+  -Source $src `
+  -Destination $dest `
+  -description $desc `
+  -displayName "Backup"
 		</code></pre>
 	    </ul>
-	</div>
-		
-	<details><summary><h3>small_programs</h3></summary>
-	    <div class="menu_item">
-		<details><summary><h4>javascript_timecode</h4></summary>
-		    <div class="menu_item">
-			<ul>
-			    <li></li>
-			</ul>
-		    </div>
-		</details>
-	    </div>
-	</details>
-    </div>
-  </details>
-  
-  <details><summary><h2>certs</h2></summary>
-      
-      <div class="menu_item">
-	  <table>
-	      <tr>
-		  <td>CompTIA Security+:</td> 
-		  <td>ISC2 Certified in Cyber Security</td>
-	      </tr>
-	      <tr>
-		  <td><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="08f3c553-8f7c-44dc-8a76-5f2a060b36ba" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
-		  <td>---badge for cc pending membership sorted out---</td>
-	      </tr>
-	  </table>
-      </div>
+	      </div>
+	    </details>
 
-      <details><summary><h3>cissp_mnemonics</h3></summary>
-	  <div class="menu_item">
-	      <h4><i>co-authored with: OpenAI's ChatGPT</i></h4>
-	      <table>
-		  <tr>
-		      <td>1. Bell-LaPadula Model</td>
-		      <td>Focus: Maintaining confidentiality and controlling access based on security clearances.</td>
-		      <td>Mnemonic: "Be Like Pigeons, Quietly Confiding."</td>
-		  </tr><tr>
-		      <td>2. Biba Model</td>
-		      <td>Focus: Ensuring data integrity by preventing unauthorized data modification.</td>
-		      <td>Mnemonic: "Be Incredible, Block Alterations."</td>
-		  </tr><tr>
-		      <td>3. Clark-Wilson Model</td>
-		      <td>Focus: Data integrity through well-defined transactions.</td>
-		      <td>Mnemonic: "Clean Waters, Intact Ships."</td>
-		  </tr><tr>
-		      <td>4. Brewer and Nash Model (The Chinese Wall)</td>
-		      <td>Focus: Preventing conflict of interest in access control.</td>
-		      <td>Mnemonic: "Build New, Challenging Walls."</td>
-		  </tr><tr>
-		      <td>5. Non-Interference Model</td>
-		      <td>Focus: Preventing actions at a high security level from affecting lower levels.</td>
-		      <td>Mnemonic: "Never Intrude, Maintain Separation."</td>
-		  </tr><tr>
-		      <td>6. Take-Grant Model</td>
-		      <td>Focus: Describing how rights can be transferred or revoked between subjects.</td>
-		      <td>Mnemonic: "Take Gently, Give Respectfully."</td>
-		  </tr>
-	      </table>
-	      
 	  </div>
+	</details>
+	
+      </div>
+    </details>
+    
+    
+      </div>
+    </details> 
+
+
+<!-- certs section -------------------------------------------------->
+    <details><summary><h2>certs</h2></summary>
+
+	<div class="menu_item">
+	  <table>
+	    <tr>
+	      <td>CompTIA Security+:</td>
+	      <td>ISC2 Certified in Cyber Security</td>
+	    </tr>
+	    <tr>
+	      <td><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="08f3c553-8f7c-44dc-8a76-5f2a060b36ba" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
+	      <td>---badge for cc pending membership sorted out---</td>
+	    </tr>
+	  </table>
+	</div>
+
+	<details><summary><h3>cissp_mnemonics</h3></summary>
+	  <div class="menu_item">
+	    <h4><i>co-authored with: OpenAI's ChatGPT</i></h4>
+	    <table>
+	      <tr>
+		<td>1. Bell-LaPadula Model</td>
+		<td>Focus: Maintaining confidentiality and controlling access based on security clearances.</td>
+		<td>Mnemonic: "Be Like Pigeons, Quietly Confiding."</td>
+	      </tr><tr>
+		<td>2. Biba Model</td>
+		<td>Focus: Ensuring data integrity by preventing unauthorized data modification.</td>
+		<td>Mnemonic: "Be Incredible, Block Alterations."</td>
+	      </tr><tr>
+		<td>3. Clark-Wilson Model</td>
+		<td>Focus: Data integrity through well-defined transactions.</td>
+		<td>Mnemonic: "Clean Waters, Intact Ships."</td>
+	      </tr><tr>
+		<td>4. Brewer and Nash Model (The Chinese Wall)</td>
+		<td>Focus: Preventing conflict of interest in access control.</td>
+		<td>Mnemonic: "Build New, Challenging Walls."</td>
+	      </tr><tr>
+		<td>5. Non-Interference Model</td>
+		<td>Focus: Preventing actions at a high security level from affecting lower levels.</td>
+		<td>Mnemonic: "Never Intrude, Maintain Separation."</td>
+	      </tr><tr>
+		<td>6. Take-Grant Model</td>
+		<td>Focus: Describing how rights can be transferred or revoked between subjects.</td>
+		<td>Mnemonic: "Take Gently, Give Respectfully."</td>
+	      </tr>
+	    </table>
+
+	  </div>
+	</details>
+
       </details>
 
-  </details>
-  
-  <details><summary><h2>projects</h2></summary>
-    <div class="menu_item">
-      <ul>
-	<li></li>
-      </ul>
-    </div>
-  </details>
-
-  
-  <details><summary><h2>security</h2></summary>
-    <div class="menu_item">
-      
-      <details><summary><h3>snippits</h3></summary>
+      <details><summary><h2>projects</h2></summary>
 	<div class="menu_item">
 	  <ul>
-	    <li>debian based reconfigure tls</li>
-	    <pre><code>
-sudo dpkg-reconfigure ca-certificates
-	    </code></pre>
+	    <li></li>
 	  </ul>
 	</div>
       </details>
-      
-      <details><summary><h3>auth_form</h3></summary>
+
+
+      <details><summary><h2>security</h2></summary>
 	<div class="menu_item">
-	  <pre><code>
+
+	  <details><summary><h3>snippits</h3></summary>
+	    <div class="menu_item">
+	      <ul>
+		<li>debian based reconfigure tls</li>
+		<pre><code>
+sudo dpkg-reconfigure ca-certificates
+		</code></pre>
+	      </ul>
+	    </div>
+	  </details>
+
+	  <details><summary><h3>auth_form</h3></summary>
+	    <div class="menu_item">
+	      <pre><code>
 Red Team Engagement Authorization Form
 
 Client Information:
@@ -184,11 +188,11 @@ Signature: __________________________
 Print Name: __________________________
 Position: _________________________
 Date: __________________________
-	  </code></pre>
-	  
-	  <h3> Engagement Details </h3>
-	    
-	  <pre><code>
+	      </code></pre>
+
+	      <h3> Engagement Details </h3>
+
+	      <pre><code>
 Specific tools and methodologies used may vary based on the engagement's scope and objectives.
 Tools:
 -----BEGIN PGP MESSAGE-----
@@ -229,53 +233,53 @@ i8BPL/2WU3GQppIEgFducILAvpwKdEfl25g=
 
 
 
- Please note that this is a general list, and the selection of tools and methodologies will be tailored to the specific engagement and its objectives. 
-	  </code></pre>
-</ul>
-</div>
-</details>
+ Please note that this is a general list, and the selection of tools and methodologies will be tailored to the specific engagement and its objectives.
+	      </code></pre>
+	    </ul>
+	    </div>
+	  </details>
 
 
-</div>
-</details>
+	</div>
+      </details>
 
 
-<details><summary><h2>resume</h2></summary>
-  <div class="menu_item">
-    <table>
+      <details><summary><h2>resume</h2></summary>
+	<div class="menu_item">
+	  <table>
 
-      <tr>
-	<td>
-	  <a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'>Justin Knox - Infrastructure Administrator.docx</a>
-	</td>
-	<td class='centered'>
-	  <a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'><img src="./img/icons/icons8-microsoft-word.svg"></img></a>
-	</td>
-      </tr>
-      
-      <tr>
-	<td>
-	  <a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'>Justin Knox - Infrastructure Administrator.pdf</a>
-	</td>
-	<td class='centered'>
-	  <a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'><img src="./img/icons/pdf.png"></img></a>
-	</td>
-      </tr>
-    </table>
-  </div>
-</details>
+	    <tr>
+	      <td>
+		<a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'>Justin Knox - Infrastructure Administrator.docx</a>
+	      </td>
+	      <td class='centered'>
+		<a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'><img src="./img/icons/icons8-microsoft-word.svg"></img></a>
+	      </td>
+	    </tr>
 
-<details><summary><h2>links</h2></summary>
-  <div class="menu_item">
-    <table>
-      <tr>
-	<td>excellent diceware list</td>
-	<td><a href="https://diceware.rempe.us/#eff">https://diceware.rempe.us/#eff</a></td>
-      </tr>
-    </table>
-  </div>
-</details>
+	    <tr>
+	      <td>
+		<a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'>Justin Knox - Infrastructure Administrator.pdf</a>
+	      </td>
+	      <td class='centered'>
+		<a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'><img src="./img/icons/pdf.png"></img></a>
+	      </td>
+	    </tr>
+	  </table>
+	</div>
+      </details>
+
+      <details><summary><h2>links</h2></summary>
+	<div class="menu_item">
+	  <table>
+	    <tr>
+	      <td>excellent diceware list</td>
+	      <td><a href="https://diceware.rempe.us/#eff">https://diceware.rempe.us/#eff</a></td>
+	    </tr>
+	  </table>
+	</div>
+      </details>
 
 
-</body>
-</html> 
+  </body>
+</html>
