@@ -18,43 +18,38 @@
 
       <!-- code ------------------------------------------------------------->
       <details><summary><h2>code</h2></summary>
-      <div class="menu_item">
-
-	<details><summary><h3>onliners</h3></summary>
-	  <div class="menu_item">
-
-	    <details>
-	      <summary>
-		<div>
-		<table>
-		    <tr>
-		      <td><h4>powershell</h4></td>
-		      <td><img src='./img/icons/ps_24.png'></img></td>
-		    </tr>
-		</table>
-	      </summary>
-
-	      <ul>
-		<li>make sure to load $src, $dst, $desc first</li>
-		<li>copy items with progress bars</li>
-		<pre><code>
+	<div class="menu_item">
+	  <details><summary><h3>onliners</h3></summary>
+	    <div class="menu_item">
+	      <details><summary>
+		  <div>
+		    <table>
+		      <tr>
+			<td><h4>powershell</h4></td>
+			<td><img src='./img/icons/ps_24.png'></img></td>
+		      </tr>
+		    </table>
+		</summary>
+		
+		<ul>
+		  <li>make sure to load $src, $dst, $desc first</li>
+		  <li>copy items with progress bars</li>
+		  <pre><code>
 Import-Module BitsTransfer
 Start-BitsTransfer `
   -Source $src `
   -Destination $dest `
   -description $desc `
   -displayName "Backup"
-		</code></pre>
-	      </ul>
-	      </div>
-	    </details>
-
-	  </div>
-	</details>
-
-	<!-- </div>
-	     </details> -->
-
+		  </code></pre>
+		</ul>
+		</div>
+	      </details>
+	    </div>
+	  </details>
+	</div>
+      </details>
+      
       <!-- certs ---------------------------------------------------------->
       <details><summary><h2>certs</h2></summary>
 	<div class="menu_item">
@@ -103,7 +98,7 @@ Start-BitsTransfer `
 	  </div>
 	</details>
       </details>
-
+      
       <!-- projects ------------------------------------------------------->
       <details><summary><h2>projects</h2></summary>
       <div class="menu_item">
