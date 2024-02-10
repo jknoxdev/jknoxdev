@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>jknoxdev - site</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="./css/styles.css" />
+  </head>
+
+  <body>
+    <!-- animated background fade ------------------------------------------->
+    <div class="bg">
+      <div>
+      <a href="./index.html"><h1>n3s - jknoxdev</h1></a>
+      </div>
+      <!-- code ------------------------------------------------------------->
+      <details><summary><h2>code</h2></summary>
+      <div class="menu_item">
+
+	<details><summary><h3>onliners</h3></summary>
+	  <div class="menu_item">
+
+	    <details>
+	      <summary>
+		<div>
+		<table>
+		    <tr>
+		      <td><h4>powershell</h4></td>
+		      <td><img src='./img/icons/ps_24.png'></img></td>
+		    </tr>
+		</table>
+	      </summary>
+
+	      <ul>
+		<li>make sure to load $src, $dst, $desc first</li>
+		<li>copy items with progress bars</li>
+		<pre><code>
+Import-Module BitsTransfer
+Start-BitsTransfer `
+  -Source $src `
+  -Destination $dest `
+  -description $desc `
+  -displayName "Backup"
+		</code></pre>
+	      </ul>
+	      </div>
+	    </details>
+
+	  </div>
+	</details>
+
+	<!-- </div>
+	     </details> -->
+
+      <!-- certs ---------------------------------------------------------->
+      <details><summary><h2>certs</h2></summary>
+
+	<div class="menu_item">
+	  <table>
+	    <tr>
+	      <td>CompTIA Security+:</td>
+	      <td>ISC2 Certified in Cyber Security</td>
+	    </tr>
+	    <tr>
+	      <td><div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="08f3c553-8f7c-44dc-8a76-5f2a060b36ba" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script></td>
+	      <td>---badge for cc pending membership sorted out---</td>
+	    </tr>
+	  </table>
+	</div>
+
+	<details><summary><h3>cissp_mnemonics</h3></summary>
+	  <div class="menu_item">
+	    <h4><i>co-authored with: OpenAI's ChatGPT</i></h4>
+	    <table>
+	      <tr>
+		<td>1. Bell-LaPadula Model</td>
+		<td>Focus: Maintaining confidentiality and controlling access based on security clearances.</td>
+		<td>Mnemonic: "Be Like Pigeons, Quietly Confiding."</td>
+	      </tr><tr>
+		<td>2. Biba Model</td>
+		<td>Focus: Ensuring data integrity by preventing unauthorized data modification.</td>
+		<td>Mnemonic: "Be Incredible, Block Alterations."</td>
+	      </tr><tr>
+		<td>3. Clark-Wilson Model</td>
+		<td>Focus: Data integrity through well-defined transactions.</td>
+		<td>Mnemonic: "Clean Waters, Intact Ships."</td>
+	      </tr><tr>
+		<td>4. Brewer and Nash Model (The Chinese Wall)</td>
+		<td>Focus: Preventing conflict of interest in access control.</td>
+		<td>Mnemonic: "Build New, Challenging Walls."</td>
+	      </tr><tr>
+		<td>5. Non-Interference Model</td>
+		<td>Focus: Preventing actions at a high security level from affecting lower levels.</td>
+		<td>Mnemonic: "Never Intrude, Maintain Separation."</td>
+	      </tr><tr>
+		<td>6. Take-Grant Model</td>
+		<td>Focus: Describing how rights can be transferred or revoked between subjects.</td>
+		<td>Mnemonic: "Take Gently, Give Respectfully."</td>
+	      </tr>
+	    </table>
+
+	  </div>
+	</details>
+
+	<details><summary><h3>cissp_notes</h3><summary>
+	  <ul> Practice tests:
+	    <li></li>
+	  </ul>
+	  <ul>Study Guides & References:
+	    <li>https://www.upcounsel.com/intellectual-property-piracy</li>
+	    https://docs.oasis-open.org/ws-sx/ws-secureconversation/v1.4/ws-secureconversation.html
+	    https://www.sans.org/white-papers/1271/
+	    https://sansorg.egnyte.com/dl/Z9CrmU0DiO
+	    https://gdpr-info.eu/
+	    https://www.ietf.org/rfc/rfc2560.txt
+	    https://www.sas.com/en_us/insights/analytics/data-mining.html
+	    https://datatracker.ietf.org/doc/html/rfc1350
+	    https://www.isc2.org/ethics
+	     Protect society, the common good, necessary public trust and confidence, and the infrastructure.
+	    Act honorably, honestly, justly, responsibly, and legally.
+	    Provide diligent and competent service to principals.
+	    Advance and protect the profession.
+	    https://www.oasis-open.org/standards/
+	    https://sansorg.egnyte.com/dl/GngcOXBcEq
+	    
+	    
+	  </ul>
+	</details>
+	
+      </details>
+
+      <!-- projects ------------------------------------------------------->
+      <details><summary><h2>projects</h2></summary>
+      <div class="menu_item">
+	<ul>
+	  <li>--more to come--</li>
+	</ul>
+      </div>
+              </details>
+
+      <!-- security ------------------------------------------------------->
+      <details><summary><h2>security</h2></summary>
+	<div class="menu_item">
+
+	  <details><summary><h3>snippits</h3></summary>
+	    <div class="menu_item">
+	      <ul>
+		<li>debian based reconfigure tls</li>
+		<pre><code>
+sudo dpkg-reconfigure ca-certificates
+		</code></pre>
+	      </ul>
+	    </div>
+	  </details>
+
+	  <details><summary><h3>auth_form</h3></summary>
+	    <div class="menu_item">
+	      <ul>
+		<li><h3>Red Team Engagement Authorization Form</h3></li>
+	      <pre><code>
+Red Team Engagement Authorization Form
+
+Client Information:
+	    Company Name:
+	    Address:
+	    Point of Contact:
+	    Phone Number:
+	    Email Address:
+
+Engagement Details:
+	    Purpose of Engagement:
+	    Scope of Engagement:
+
+    Include IP addresses, domains, and any specific systems or applications to be tested.
+    Clearly state any systems, applications, or data that are out of scope.
+    Engagement Start Date:
+    Engagement End Date:
+    Methodology:
+    Briefly describe the Red Team methodologies and tools that may be used during the test.
+
+Authorization:
+	    I, [Name], in my capacity as [Position], hereby authorize n3s /
+	    @jknoxdev and its designated team members to conduct a Red Team
+	    testing engagement as described in the Engagement Details section.
+	    I understand that this engagement is intended to improve our
+	    cybersecurity posture and that all activities will be conducted
+	    in accordance with ethical hacking guidelines.
+
+Liability Release:
+	    I acknowledge that Red Team testing involves attempts to penetrate
+	    our network and systems to identify vulnerabilities. I release n3s
+	    / @jknoxdev from all liability for any unintentional disruption or
+	    damage to our systems or data as a result of activities conducted
+	    in good faith during this engagement.
+
+Confidentiality Agreement:
+	    I understand that n3s @ jknoxdev will maintain the confidentiality
+	    of all findings and data obtained during the engagement, except
+	    as required by law or with the client's express consent.
+
+Reporting:
+	    I agree to receive a detailed report from n3s at the conclusion
+	    of the engagement, including findings, evidence of exploits, and
+	    recommendations for improvement.
+
+Authorization Signature:
+
+Client Signature: __________________________
+Print Name: __________________________
+Date: __________________________
+
+For n3s @ jknoxdev:
+Signature: __________________________
+Print Name: __________________________
+Position: _________________________
+Date: __________________________
+	      </code></pre>
+	      
+	      <li><h3> Engagement Details <i>(Example)</i> </h3></li>
+	      <pre><code>
+Specific tools and methodologies used may vary based on the engagement's scope and objectives.
+Tools:
+-----BEGIN PGP MESSAGE-----
+
+jA0ECQMCrhw588qOvvL/0ukBn/nvbLSuc5LN2c2lOtaQilvAAtCmHxP8BzS2oj0h
+Uz0Rj7hCvoGoRauYZqCOjCOO4e/Q8KvxVx4VxDz4CXyoTXLphNv/4DwKX/eDilIa
+AdhrpynPoErIZOi0Db3ELWduNMb9EEmCs1+/4vq2HCXDlwXSkRhHr3KrzH/C/8W5
+wr3zC51jqH21fOAVhSBBOEQ+rNaRlXktw+JMgOrzVsXVIgxkubXGaLz9+g/jEoPf
+c5uq4zhlZWt1/sAuCRnzE5Pw16oXJW+Bd0KK4DrNnsmtjI3O7XzIQOEOL4iyVeNb
+JlN+g6BCEqgL5lLD/DHiae7KqmU1YT/wzGfYymgovBZjoMY+xM9Scw4c7zvlovf5
+goCKmZiz3VZE2R7x4CbVplpqDCx3DYL6MAXztSlmAJH+PN6Lu1P+gJBM+N+Uphm9
+s7L9+/+wlWG7vNeAtM7VPf3G42LnqfDUHcNzPPKdjWQKUR6FMAi0oiZSvgu8CG65
+4/t07XjEF6+UHFtC6zz1oCBZLq/XJtuu5kyfyhx3fC2riSBmj5gX0lpGORteAZzR
+2gMtj1oQ/GvpgDir/d42tyfMDs+8r1uQmcNQLYiQwb4SlsFTFEqd3V0f6zrrw5kV
+Efs7qnDa2pUyuIBbjRKrftsoJUk7CsmThnZF2QuJS5BnNyidB46u5uayVeT098Bb
+AniJO+o0okC1mvn4sEhqu5rG8dRfmm+9f6g7maUEqwnH5XOcq3pXMI9cDw+wF5dw
+p9m0bZt6LXSwM6satkqow/g9LCIYQGca7wo9VwtMhZpKgt7w70a4OPooNFm3NDPt
+i8BPL/2WU3GQppIEgFducILAvpwKdEfl25g=
+=DPcj
+-----END PGP MESSAGE-----
+
+ -----BEGIN PGP MESSAGE-----
+
+ jA0ECQMC4w1OA88n+Kr/0ukBByzAZGjvLN4g1/r+0j8+um2EhPWaZE7yw3gzcAiT
+ V/iy+ArWx9Pu/Z5JtCyducZ7SlWyEUxGmDyEPKae9fA+JZH7NO6c+9wY3GLgxu38
+ dRo9n0JF+EgZ5nqYsiymDeBclfXxE5TZoMRRUtXiwa45FUDNyoFytepGk7CRtXJ9
+ Wan9HM9aMzNPevG8oPpcU917yxT9p3A7slXArifa8S23NW208Yfx1qixBMlmDUz7
+ gU90W7fpJUJsHPhmE1Qkm72KdfStTgad1OwM5F+WCH7ufWQjJOrm52EU8obL8Njx
+ wZCczg+xPA4nOAev/nEZnwErE2huJFm9bJLvw14DbgYi6DnBkuV1iVpue/jPtXp/
+ ZyDc/5nsOzESqZ4cBcjpJTtn35N4dniASuUqONVY6r0ks+t3SHHYnJ2qpSEU2F+j
+ zWX96kWFqf9kKcrwZf4f8AOQuIA1jjU1Z8Xg8NepSzEWhgkwgnBCtlj9pRAtaGHN
+ 1iDQTNt+Y9KIezse959faAVq14nSvQoVKycvjLvrX5KtA3OV7XQtkIWSod+VMBjq
+ n8DK+9pJtVeudLmOI1/NvxqaW2Dg90CL4Mr4FRgTWfYLNUUmHKmNvlUB4JgGA21y
+ 79buTf5qCaYers1VeXFMqnSRlNXlF0tevM85XsmQLfa6Vn6PHoPhqzlM7wusjKSS
+ 7A1kX8cuII11WWXEP+0N
+ =O5KD
+ -----END PGP MESSAGE-----
+
+ Please note that this is a general list, and the selection of tools
+and methodologies will be tailored to the specific engagement and its
+objectives.
+	      </code></pre>
+	      </ul>
+	    </div>
+	  </details>
+
+
+	</div>
+      </details>
+		
+      <!-- resume --------------------------------------------------------->
+      <details><summary><h2>resume</h2></summary>
+	<div class="menu_item">
+	  <table>
+
+	    <tr>
+	      <td>
+		<a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'>Justin Knox - Infrastructure Administrator.docx</a>
+	      </td>
+	      <td class='centered'>
+		<a href='./docs/resumes/word/justin_knox-infrastructure_administrator.docx'><img src="./img/icons/icons8-microsoft-word.svg"></img></a>
+	      </td>
+	    </tr>
+
+	    <tr>
+	      <td>
+		<a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'>Justin Knox - Infrastructure Administrator.pdf</a>
+	      </td>
+	      <td class='centered'>
+		<a href='./docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf'><img src="./img/icons/pdf.png"></img></a>
+	      </td>
+	    </tr>
+	  </table>
+	</div>
+                    </details>
+
+      <!-- links ---------------------------------------------------------->
+      <details><summary><h2>links</h2></summary>
+      <div class="menu_item">
+	<table>
+	  <tr>
+	    <td>excellent diceware list</td>
+	    <td><a href="https://diceware.rempe.us/#eff">https://diceware.rempe.us/#eff</a></td>
+	  </tr>
+	  <tr>
+	    <td>emacs web-mode</td>
+	    <td><a href="https://web-mode.org/">https://web-mode.org/</a></td>
+	  </tr>
+	</table>
+      </div>
+      </details>
+
+      </div>
+    </div>
+
+  </body>
+</html>
