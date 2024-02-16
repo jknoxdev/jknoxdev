@@ -91,11 +91,11 @@ pre {
 
 table {
     border: none;
-    border-spacing: 2px;
+    border-spacing: 15px;
     border-collapse: separate;
     /* background: gray; */
     /* color: grey; */
-    background-color:rgba(255,255,255,0.8);    
+    background-color:rgba(255,255,255,0.5);    
 }
 
 tr {
@@ -108,6 +108,7 @@ td {
     /* background: #343434 */
     /* background: red; */
     /* opacity: 0.85; */
+    background-color:rgba(255,255,255,0.9);    
     
 }
 
