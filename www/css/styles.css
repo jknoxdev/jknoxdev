@@ -94,8 +94,8 @@ table {
     border-spacing: 2px;
     border-collapse: separate;
     /* background: gray; */
-    color: grey;
-    
+    /* color: grey; */
+    background-color:rgba(255,255,255,0.8);    
 }
 
 tr {
