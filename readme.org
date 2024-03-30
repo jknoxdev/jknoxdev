@@ -1,10 +1,10 @@
 #+OPTIONS: ^:{}
 * jknoxdev
 ** bio:
-I'm from LA, currently live in Ann Arbor, MI. I work in the 
-healthcare space. I am fascinated with network security, AI, the
-growing future of technology, the integration and applications it
-has with our species. 
+I'm from LA, currently live in Michigan. I'm in to 
+cyber security, currently studying for the OSCP, but
+I like to program every once in a while too. 
+
 ** contact:
    
 | [[mailto:justin.knox@posteo.de][./img/logos/email.png]]  | [[ https://discord.gg/gVjgHvMy][./img/logos/discord.png]] | [[https://linkedin.com/in/justintknox][./img/logos/linkedin.png]] | [[https://matrix.to/#/@techbiotic:matrix.org][./img/logos/matrix.png]] | [[https://is.gd/BbZblt][./img/logos/slack.png]] | [[https://stackoverflow.com/users/22162178/justin-k?tab=profile][./img/logos/stackoverflow.png]] |
@@ -12,9 +12,17 @@ has with our species.
 
 
 ** projects:
-*** here's a collection of stuff I'm working on:
+*** 2024 
+**** x500 notes:
+**** OSCP notes:
+**** CISSP notes: 
+
+**** 2024 Resume: 
+ [[https://jknoxdev.github.io/docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf][./img/logos/pdf.png]]
+
+*** 2023
 **** n^{3}s
- - an example company architecture, for database and python scripts
+ - an example company architecture, database and python scripts
    to interact with it
    - [[https://github.com/jknoxdev/n3s/tree/main/database][database]]: an example database, building out to integrate for 
                  other AI related projects.
@@ -34,7 +42,7 @@ has with our species.
   - [[https://github.com/jknoxdev/video-lan-checker/tree/main/incubator#ntp_viewer][ntp viewer]]: scans layer 3 traffic, prints NTP on lan
 [[https://github.com/jknoxdev/video-lan-checker/raw/main/img/ntp_view-skeleton.png]]
 
-** cv:
+*** 2023 cv:
  [[./resumes/pdfs/justin_knox-developer.pdf][./img/logos/pdf.png]]
 
 
