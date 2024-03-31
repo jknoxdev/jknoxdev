@@ -19,6 +19,8 @@ I like to program every once in a while too.
 **** Homelab notes:
 ***** current_layout:
 [[https://github.com/jknoxdev/jknoxdev/tree/main/img/diags/net_diag_2024w14.svg?raw=true][./img/diags/net_diag_2024w14.svg]]
+***** upcoming_layout:
+[[https://github.com/jknoxdev/jknoxdev/tree/main/img/diags/net_diag_2024w14_new_layout.svg?raw=true][./img/diags/net_diag_2024w14_new_layout.svg]]
 **** 2024 Resume: 
  [[https://jknoxdev.github.io/docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf][./img/logos/pdf.png]]
 
