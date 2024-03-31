@@ -16,7 +16,9 @@ I like to program every once in a while too.
 **** x500 notes:
 **** OSCP notes:
 **** CISSP notes: 
-
+**** Homelab notes:
+***** current_layout:
+[[./img/diags/net_diag_2024w14.svg]]
 **** 2024 Resume: 
  [[https://jknoxdev.github.io/docs/resumes/pdf/justin_knox-infrastructure_administrator.pdf][./img/logos/pdf.png]]
 
