@@ -1,9 +1,5 @@
 #+OPTIONS: ^:{}
 * jknoxdev
-** bio:
-I'm from LA, currently live in Michigan. I'm in to 
-cyber security, currently studying for the OSCP, but
-I like to program every once in a while too. 
 
 ** contact:
    
