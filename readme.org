@@ -7,9 +7,9 @@ Distributed AI Infrastructure: Designing secure, multi-tenant Kubernetes environ
 Security by Design: Implementing Zero Trust architectures in legacy IT/OT environments.
 
 ** 🛠️ The Workbench (Home Lab)
-Hypervisors: Clustered Proxmox / KVM
-Network: OPNsense with hardened WireGuard tunnels & VLAN segmentation.
-Automation: Ansible-driven provisioning and automated patch management.
+- Hypervisors: Clustered Proxmox / KVM
+- Network: OPNsense with hardened WireGuard tunnels & VLAN segmentation.
+- Automation: Ansible-driven provisioning and automated patch management.
 
 ** 📜 Certifications
  - CISSP (Certified Information Systems Security Professional)
