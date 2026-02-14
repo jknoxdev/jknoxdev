@@ -1,17 +1,17 @@
 #+OPTIONS: ^:{}
 I build and secure the "un-breakables." With over 20 years of experience managing mission-critical infrastructure—from Google's network operations to municipal water cyber-defense—I specialize in the intersection of high-availability systems and hardened security protocols.
 
-## 🛰️ Current Focus
+** 🛰️ Current Focus
 Space/Aerospace OT: Hardening telemetry and command protocols for next-gen orbital assets.
 Distributed AI Infrastructure: Designing secure, multi-tenant Kubernetes environments for LLM inference and training.
 Security by Design: Implementing Zero Trust architectures in legacy IT/OT environments.
 
-## 🛠️ The Workbench (Home Lab)
+** 🛠️ The Workbench (Home Lab)
 Hypervisors: Clustered Proxmox / KVM
 Network: OPNsense with hardened WireGuard tunnels & VLAN segmentation.
 Automation: Ansible-driven provisioning and automated patch management.
 
-## 📜 Certifications
+** 📜 Certifications
 CISSP (Certified Information Systems Security Professional)
 CISA (Certified Information Security Auditor)
 OSCP (In Progress - Expected 2026)
