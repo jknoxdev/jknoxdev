@@ -1,6 +1,28 @@
 #+OPTIONS: ^:{}
 * jknoxdev
 
+Justin Knox, CISSP, CISA
+Systems & Infrastructure Engineer | IT/OT Security Architect
+
+I build and secure the "un-breakables." With over 20 years of experience managing mission-critical infrastructure—from Google's network operations to municipal water cyber-defense—I specialize in the intersection of high-availability systems and hardened security protocols.
+
+🛰️ Current Focus
+Space/Aerospace OT: Hardening telemetry and command protocols for next-gen orbital assets.
+Distributed AI Infrastructure: Designing secure, multi-tenant Kubernetes environments for LLM inference and training.
+Security by Design: Implementing Zero Trust architectures in legacy IT/OT environments.
+
+🛠️ The Workbench (Home Lab)
+Hypervisors: Clustered Proxmox / KVM
+Network: OPNsense with hardened WireGuard tunnels & VLAN segmentation.
+Automation: Ansible-driven provisioning and automated patch management.
+
+📜 Certifications
+CISSP (Certified Information Systems Security Professional)
+CISA (Certified Information Security Auditor)
+OSCP (In Progress - Expected 2026)
+
+Currently relocating to the DACH region (CH/DE)
+
 ** contact:
    
 | [[mailto:justin.knox@posteo.de][./img/logos/email.png]]  | [[ https://discord.gg/gVjgHvMy][./img/logos/discord.png]] | [[https://linkedin.com/in/justintknox][./img/logos/linkedin.png]] | [[https://matrix.to/#/@techbiotic:matrix.org][./img/logos/matrix.png]] | [[https://is.gd/BbZblt][./img/logos/slack.png]] | [[https://stackoverflow.com/users/22162178/justin-k?tab=profile][./img/logos/stackoverflow.png]] |
