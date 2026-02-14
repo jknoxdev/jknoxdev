@@ -29,3 +29,28 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.dll
+*.so
+*.a
+
+# IDE and build system files (example for Visual Studio and CMake)
+.vscode/
+.idea/
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
