@@ -2,9 +2,9 @@
 I build and secure the "un-breakables." With over 20 years of experience managing mission-critical infrastructure—from Google's network operations to municipal water cyber-defense—I specialize in the intersection of high-availability systems and hardened security protocols.
 
 ** 🛰️ Current Focus
-Space/Aerospace OT: Hardening telemetry and command protocols for next-gen orbital assets.
-Distributed AI Infrastructure: Designing secure, multi-tenant Kubernetes environments for LLM inference and training.
-Security by Design: Implementing Zero Trust architectures in legacy IT/OT environments.
+-- OT: Hardening telemetry and command protocols for next-gen assets.
+-- Distributed AI Infrastructure: Designing secure, multi-tenant Kubernetes environments for LLM inference and training.
+-- Security by Design: Implementing Zero Trust architectures in IT/OT environments.
 
 ** 🛠️ The Workbench (Home Lab)
 Hypervisors: Clustered Proxmox / KVM
