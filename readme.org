@@ -14,7 +14,6 @@
  - CISA (Certified Information Security Auditor)
  - OSCP (In Progress - Expected 2026)
 
-Currently relocating to the DACH region (CH/DE)
 
 ** contact:
    
