@@ -1,7 +1,6 @@
 #+OPTIONS: ^:{}
 ** 🛰️ Current Focus
 - OT: Hardening telemetry and command protocols for next-gen assets.
-- Distributed AI Infrastructure: Designing secure, multi-tenant Kubernetes environments for LLM inference and training.
 - Security by Design: Implementing Zero Trust architectures in IT/OT environments.
 
 ** 🛠️ The Workbench (Home Lab)
